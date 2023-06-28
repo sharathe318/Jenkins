@@ -1,0 +1,5 @@
+#!/bin/bash
+#Author sharath
+#descrption deploying script in jenkins 
+
+grep -i count /home/ubuntu/script/ifcond
